@@ -21,6 +21,7 @@
     }
     header {
       background: rgba(234, 145, 152, 0.5);
+      width: 100%;
     }
     .m {
       color: white;
